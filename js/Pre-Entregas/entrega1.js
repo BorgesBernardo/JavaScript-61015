@@ -7,7 +7,8 @@
 
 // Ejercicio: Calcular pagos en cuotas sobre un monto determinado.
 
-function subResultado (monto,cuota){
+
+/*function subResultado (monto,cuota){
 
   return monto/cuota;
 
@@ -32,7 +33,7 @@ while(respuesta == "Si" || respuesta == "si"){
 
 
   respuesta = prompt("Desea ingresar otro monto? Si desea salir presione (ESC)");
-}
+}*/
 
 
 
