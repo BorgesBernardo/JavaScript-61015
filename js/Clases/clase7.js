@@ -5,7 +5,7 @@
 // Programación imperativa, es el como se hace, paso por paso
 
 const mayorQue = (numero1) => {
- 
+
   return (numero2) => {  // Retorna el resultado de la comparación
 
     return numero1 > numero2 }; // Retorna la comparación entre los 2 parámetros

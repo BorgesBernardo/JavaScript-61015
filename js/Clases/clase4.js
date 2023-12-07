@@ -1,9 +1,8 @@
 // Funciones
 
 
+// FUNCIÓN DECLARADA
 
-
-// Sintaxis de función clásico
 // Inicializar una función
 
 function saludar(){
@@ -15,7 +14,7 @@ function saludar(){
 
 saludar();
 
-// Función anónima
+// FUNCIÓN ANÓNIMA
 
 const funcionAnonima = function(){
   console.log('Esto es una función anónima');
@@ -23,7 +22,7 @@ const funcionAnonima = function(){
 
 funcionAnonima();
 
-// Función de tipo flecha
+// FUNCIÓN FLECHA
 
 const funcionFlecha = () => {console.log('Esto es una función tipo flecha')};
 
@@ -35,7 +34,7 @@ console.log('----------------------------------------------')
 
 //Parametros
 
-// Son parámetros qeu le pasamos a las funciones
+// Son parámetros qeu le pasamos a las funciones para ayudar a la ejecución
 // Valores de entrada -------- ejecuta ------- devuelve otro valor
 
 // Función sin parámetros
